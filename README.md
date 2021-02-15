@@ -4,4 +4,5 @@ Testable documentation with doctest. It tell the truth about what your code actu
 
 ## Usage 
 `pip install pytest`
+
 `python -m doctest yatzy.py -v`
